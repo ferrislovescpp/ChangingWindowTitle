@@ -2,17 +2,9 @@
 
 just a proof of concept
 
-## Install
+## Disclaimer (for skids)
 
-**Step 1** - create a new cpp project in visual studio 2019.
-
-**Step 2** - create five new files, `main.cpp`, `main.hpp`, `utils.cpp`, `utils.hpp`, and `xorstr.hpp`.
-
-**Step 3** - copy and paste the code from the files here into the files in visual studio.
-
-**Step 4** - in the top left go to `Project` -> `Properties` -> `General` -> `C++ language standard` -> `/std:c++17`.
-
-**Step 5** - Exit out of the Project Properties page and compile `Ctrl + B`.
+you will have to implement this into your project for it to work, this is not a program you can drop your file on.
 
 ## License 
 
